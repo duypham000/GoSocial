@@ -1,4 +1,4 @@
-module github.com/duypham000/go-helloword.git
+module GoSocial
 
 go 1.24.1
 

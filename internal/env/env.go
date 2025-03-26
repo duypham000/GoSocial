@@ -1,4 +1,5 @@
-package main
+// env.go
+package env
 
 import (
 	"os"
